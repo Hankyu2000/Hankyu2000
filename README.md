@@ -3,8 +3,8 @@
 ### キーロフ大佐 
 COL. Kirov (OF-5)
 #### //DEPLOYMENT
-### 第四キヴォトス派遣師団司令官
-Commander of the 4th Kivotos Expeditionary Division
+### 女王陛下の最も忠実な先生たち W/ 分遣隊L
+Leader of the Her Majesty’s Most Loyal Teachers (HMMLT) W/ Detachment L
 #### //BIO
 どこかにいるちょっとコードが書けるだけの先生です。
 
@@ -18,6 +18,9 @@ Commander of the 4th Kivotos Expeditionary Division
 1. モモ(イ)トーク
 1. ミドリトーク（有志様が開発されているとの情報）
 1. アリストーク<-New!
+
+現在NagisaTalkに改名を検討中
+(Thinking of changing its name to NagisaTalk as I reeeeeeeeeeeeeeeeeealy love Nagisa) 
 
 <!--
 **Hankyu2000/Hankyu2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
