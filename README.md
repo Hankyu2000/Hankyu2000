@@ -1,10 +1,10 @@
 ## OVERVIEW
 #### //NAME
-### キーロフ大佐 
-COL. Kirov (OF-5)
+### キーロフ少将 
+MAJ GEN. Kirov (O-8)
 #### //DEPLOYMENT
-### 女王陛下の最も忠実な先生たち W/ 分遣隊L
-Leader of the Her Majesty’s Most Loyal Teachers (HMMLT) W/ Detachment L
+### 校区防衛委員会/ウェリントンシャー・インスティチュート
+District Defence Committee and Wellingtonshire Institute
 #### //BIO
 どこかにいるちょっとコードが書けるだけの先生です。
 
